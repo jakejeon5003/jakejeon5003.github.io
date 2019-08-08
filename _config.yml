@@ -107,11 +107,11 @@ analytics:
 
 # Site Author
 author:
-  name             : "Jake Jeon"
+  name             : "CY Jeon(Jake)"
   avatar           : # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
   bio              : "Currently working as a **Salesforce Developer**"
   location         : "Seoul, Korea"
-  email            : "jakejeon5003@gmail.com"
+  jakejeon5003@gmail.com            : "jakejeon5003@gmail.com"
   links:
     - label: "jakejeon5003@gmail.com"
       icon: "fas fa-fw fa-envelope-square"
