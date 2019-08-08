@@ -16,7 +16,7 @@ minimal_mistakes_skin    : "air"
 
 # Site Settings
 locale                   : "en-US"
-title                    : "Site Title"
+title                    : "Personal Records Repository"
 title_separator          : "-"
 subtitle                 : # site tagline that appears below site title in masthead
 name                     : "Jake Jeon"
@@ -107,11 +107,11 @@ analytics:
 
 # Site Author
 author:
-  name             : "Your Name"
+  name             : "Jake Jeon"
   avatar           : # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
-  bio              : "I am an **amazing** person."
+  bio              : "currently working as a **salesforce developer**"
   location         : "Somewhere"
-  email            :
+  email            : "jakejeon5003@gmail.com"
   links:
     - label: "Email"
       icon: "fas fa-fw fa-envelope-square"
