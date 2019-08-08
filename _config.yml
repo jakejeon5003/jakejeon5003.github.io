@@ -109,11 +109,11 @@ analytics:
 author:
   name             : "Jake Jeon"
   avatar           : # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
-  bio              : "Currently working as a **salesforce developer**"
+  bio              : "Currently working as a **Salesforce Developer**"
   location         : "Seoul, Korea"
   email            : "jakejeon5003@gmail.com"
   links:
-    - label: "Email"
+    - label: "jakejeon5003@gmail.com"
       icon: "fas fa-fw fa-envelope-square"
       # url: mailto:your.name@email.com
     - label: "Website"
