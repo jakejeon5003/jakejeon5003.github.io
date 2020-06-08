@@ -4,4 +4,4 @@ layout: default
 permalink: /about/
 author_profile: true
 ---
-테스트 내용
+<p>{{ page.date }} - Written by {{ page.author }}</p>
