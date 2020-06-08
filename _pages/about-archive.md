@@ -1,6 +1,6 @@
 ---
 title: "About Me"
-layout: post
+layout: default
 permalink: /about/
 author_profile: true
 ---
