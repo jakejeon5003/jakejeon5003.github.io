@@ -1,7 +1,7 @@
 ---
 title: "About Me"
-layout: posts
+layout: splash
 permalink: /about/
 author_profile: true
 ---
-<p>{{ page.date }} - Written by {{ page.author }}</p>
+
